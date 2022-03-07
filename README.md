@@ -1,4 +1,4 @@
-### Hi there 👋, Ben Ömer
+### Hi there 👋
 #### Bu kısımda kendimden bahsedeceğim.
 ![Bu kısımda kendimden bahsedeceğim.](https://media.istockphoto.com/vectors/software-engineering-banner-and-icons-vector-id636526232?s=612x612)
 
