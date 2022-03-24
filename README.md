@@ -4,8 +4,6 @@
 
 Beykent Üniveristesi Yazılım Mühendisliği  3. sınıf  öğrencisiyim. 
 
-Gelişime açık, takım çalışmasına yatkın, çözüm odaklı analiz becerisi yüksek, değişime ve öğrenmeye istekli ve  teknik dokümanları okuyup, anlamlandırabilecek derecede İngilizce bilgisine sahibim.
-
 İlgilendiğim Alanlar: Web & İnternet Programlama, Mobil Uygulama Geliştirme ve Veri Tabanı
 
 İlgilendiğim Diller: JavaScript, Java, HTML, CSS, PHP, Dart(Flutter), SQL
